@@ -138,11 +138,7 @@ Safety-first platform. Keeping people safe, one API call at a time.
 
 ---
 
-### 🏆 trophies & vibes
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manibharadwaj&theme=discord_matrix&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" />
-</p>
+### 📊 the numbers
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manibharadwaj&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0a0f&title_color=6c63ff&icon_color=6c63ff&text_color=e0e0e6&ring_color=6c63ff&count_private=true" width="49%" />
@@ -159,7 +155,7 @@ Safety-first platform. Keeping people safe, one API call at a time.
 ### 🐍 my contributions, eaten by a snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Manibharadwaj/Manibharadwaj/output/github-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/Manibharadwaj/Manibharadwaj/output/github-snake.svg" alt="snake animation" />
 </p>
 
 <details>
