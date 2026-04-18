@@ -176,9 +176,9 @@ Safety-first platform. Keeping people safe, one API call at a time.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manibharadwaj&label=curious%20souls%20who%20visited&color=6c63ff&style=flat-square" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=manibharadwaj&label=thank%20you%20for%20visiting&color=6c63ff&style=flat-square" alt="views" />
   &nbsp;
   <img src="https://img.shields.io/github/followers/manibharadwaj?label=followers&style=flat-square&color=6c63ff" alt="followers" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6c63ff,50:a855f7,100:22d3ee&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6c63ff,50:a855f7,100:22d3ee&height=100&section=footer&text=Thank%20You%20For%20Visiting%20%F0%9F%91%8B&fontSize=20&fontColor=fff&fontAlignY=40" />
